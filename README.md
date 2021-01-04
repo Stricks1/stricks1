@@ -11,10 +11,6 @@
 
 <br />
 
-<div align='center'>
-  <img align='center' alt="visitors count" src="https://visitor-badge.glitch.me/badge?page_id=stricks1">
-</div>
-
 <br />
 
 [![Stricks1 github stats](https://github-readme-stats.vercel.app/api?username=stricks1&show_icons=true&theme=radical)](https://github.com/stricks1/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stricks1&show_icons=true&theme=radical&layout=compact)](https://github.com/stricks1/github-readme-stats)
